@@ -118,6 +118,11 @@ input[type="submit"]:hover {
   /* Darker shade of green on hover */
 }
 
+img {
+  width: 100%;
+    height: auto;
+}
+
 /* Testimonial CSS */
 
 .testimonial {
